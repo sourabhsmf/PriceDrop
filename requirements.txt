@@ -1,2 +1,5 @@
 Module Name
 requests
+fake_useragent
+beautifulsoup
+googlesearch
